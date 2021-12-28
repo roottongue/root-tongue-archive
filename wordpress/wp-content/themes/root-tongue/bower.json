@@ -1,0 +1,12 @@
+{
+  "name": "foundationpress",
+  "main": [
+    "assets/stylesheets/foundation.css",
+    "assets/javascript/foundation.js"
+  ],
+  "ignore": [],
+  "dependencies": {
+    "foundation-sites": "~6.0.1",
+    "motion-ui" : "~1.1.0"
+  }
+}
